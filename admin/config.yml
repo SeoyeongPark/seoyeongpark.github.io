@@ -110,6 +110,10 @@ collections: # A list of collections the CMS should be able to edit
               - { label: profileImage, name: profileImage, widget: 'image' }
               - { label: 'phone', name: 'phone', widget: 'string' }
               - { label: 'email', name: 'email', widget: 'string' }
+<<<<<<< HEAD
+=======
+              - { label: 'schoolemail', name: 'schoolemail', widget: 'string'}
+>>>>>>> 5150c74... third commit
               - label: 'Social Handles'
                 name: 'handles'
                 widget: 'list'

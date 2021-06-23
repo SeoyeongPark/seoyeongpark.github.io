@@ -6,7 +6,11 @@
     <description>Recent content in Home on Seoyeong Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 23 Mar 2020 18:56:13 -0500</lastBuildDate>
+=======
+    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+>>>>>>> 5150c74... third commit
     
 	<atom:link href="https://seoyeongpark.github.io/index.xml" rel="self" type="application/rss+xml" />
     

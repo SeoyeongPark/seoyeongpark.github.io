@@ -1,0 +1,31 @@
+ 
+
+ .resume-section{
+ 	
+	font-family: Calibri Condensed;
+ }
+
+
+
+ .bg-primary {
+	background-color: #1E1F26 !important;
+ }
+ 
+ .text-primary {
+	color: #283655 !important;
+ }
+ 
+ a {
+	color: #4D648D;
+ }
+ 
+ a:hover, a:focus, a:active {
+	color: #4D648D;
+ }
+ 
+ .list-social-icons a:hover {
+	color: #4D648D;
+ }
+ .list-icons .list-inline-item i:hover {
+	color: #4D648D;
+ }
