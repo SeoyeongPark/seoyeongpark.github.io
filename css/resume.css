@@ -37,11 +37,7 @@ h2 {
 }
 
 .subheading {
-<<<<<<< HEAD
-  text-transform: uppercase;
-=======
   /* text-transform: uppercase; */
->>>>>>> 5150c74... third commit
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
   font-size: 1.35rem;
