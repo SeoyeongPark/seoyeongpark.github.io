@@ -1,0 +1,22 @@
+[
+    {
+        "school":"[NC State University](https://www.csc.ncsu.edu/)",
+        "degree":"Doctorate of Philosophy",
+        "major":"Computer Science",
+        "notes":"1st-year Ph.D student",
+        "range":"2021 - Present"
+    },
+    {
+        "school":"[Stony Brook University](https://www.cs.stonybrook.edu/)",
+        "degree":"Bachelor of Science",
+        "major":"Computer Science",
+        "notes":"Double major in Applied Mathematics and Statistics (Dean’s List: Spring 2015, Spring 2016, and Fall 2017)",
+        "range":"2014 - 2018"
+    },
+    {
+        "school":"Data Science Professional Certificate",
+        "degree":"Coursera",
+        "notes":"IBM Data Science at Coursera. 9-course specialization certificate provided by IBM on Coursera. \n- Covered topics: Data science methodologies, Data analysis, Machine learning, Data visualization, Python, Pandas, SQL.",
+        "range":"Sep 2019"
+    }
+]

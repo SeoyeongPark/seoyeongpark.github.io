@@ -1,0 +1,10 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Java","Python","javascript","R","git","Google Apps script"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":["SQL"]
+  }
+]

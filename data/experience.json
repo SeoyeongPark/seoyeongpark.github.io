@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Application Solution Consultant (APAC Training Lead, QA Lead) - Play Partnership Team",
+        "company":"Google (via Vaco)",
+        "summary":"Provided comprehensive solutions for partner developers to revamp their mobile applications to better optimize on Android platform.\n- Conducted in-depth UX, localization, and accessibility consultations for applications to present custom solutions and adopt local market representing engagement, retention, culturalization, peer set review, Android vital, and others.\n- Manipulated and analyzed internal data for monthly business review and program statistics using Google Apps Script and SQL.\n- Automated internal work with Google Apps Script and SQL that affected team efficiency improvement. \n  * Auto-sending regular emails to respective recipients\n  * Converting summarized data to emails \n  * Time-based database auto-refreshing connected to Google documents services and internal dataset\n  * Retrieving all comments from Google documents services\n- Managed knowledge alignment across global regions to drive efficient internal processes and communication with clients. Training lead of APAC team of 40+.\n- Guided partners to enhance functionality and compatibility based on Google featuring guidelines.",
+        "range":"August 2018 - June 2021"
+    },
+    {
+        "role":"Freelance Software Quality Assurance Tester",
+        "company":"Global App Testing",
+        "summary":"Executed functional exploratory cycles, functional test case executions, and usability studies of well-known applications and websites. Reported reproducible bugs, crashes, and UX/UI suggestions. \n* Major apps tested: Facebook, Facebook Messenger, Instagram, Canva",
+        "range":"January 2018 - Present"
+    },
+    {
+        "role":"Archives Intern",
+        "company":"Olympic Broadcasting Services",
+        "summary":"Archive internship at OBS during PyeongChang 2018 Winter Olympic. Assisted the archive team to create and manage live footage.\n- Live session video logging\n- Making-of quality control\n- Interviews translation",
+        "range":"January 2018 - February 2018"
+    }
+]
