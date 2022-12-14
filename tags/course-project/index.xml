@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Seoyeong Park</title>
-    <link>https://seoyeongpark.github.io/</link>
-    <description>Recent content in Home on Seoyeong Park</description>
+    <title>Course Project on Seoyeong Park</title>
+    <link>https://seoyeongpark.github.io/tags/course-project/</link>
+    <description>Recent content in Course Project on Seoyeong Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seoyeongpark.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seoyeongpark.github.io/tags/course-project/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Publication 1</title>
-      <link>https://seoyeongpark.github.io/publications/publication1/</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/publications/publication1/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
- Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
-    </item>
     
     <item>
       <title>Course scheduling with CSP</title>
@@ -40,20 +29,6 @@ The course scheduler is considered as a constraint satisfaction problem by check
       <description>Project design StockImpulse is a fast and easy to use discord bot for getting stock information. This means that users will have access to information about US stocks from their discord account. StockImpulse also allows users to look up information about crypto currencies. StockImpulse allows for up to 60 stock requests every minute and 50 requests every 10 minutes for cryptocurrency.
 Instruction Refer to the official instruction
 APIs  The Finnhub API is used for information regarding stocks alongside the finnhub-python python package.</description>
-    </item>
-    
-    <item>
-      <title>Search Results</title>
-      <link>https://seoyeongpark.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml
-[outputs]home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;]Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
     </item>
     
     <item>
