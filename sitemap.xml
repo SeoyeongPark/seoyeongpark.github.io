@@ -28,7 +28,14 @@
   
   <url>
     <loc>https://seoyeongpark.github.io/projects/courseschedulingcsp/</loc>
-    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/projects/stockimpulse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/projects/slash/</loc>
   </url>
   
   <url>
@@ -70,20 +77,12 @@
   </url>
   
   <url>
-    <loc>https://seoyeongpark.github.io/projects/stockimpulse/</loc>
-  </url>
-  
-  <url>
     <loc>https://seoyeongpark.github.io/tags/python/</loc>
   </url>
   
   <url>
     <loc>https://seoyeongpark.github.io/search/</loc>
     <priority>0.1</priority>
-  </url>
-  
-  <url>
-    <loc>https://seoyeongpark.github.io/projects/slash/</loc>
   </url>
   
   <url>

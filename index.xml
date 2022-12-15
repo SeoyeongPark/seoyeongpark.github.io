@@ -43,6 +43,16 @@ APIs  The Finnhub API is used for information regarding stocks alongside the fin
     </item>
     
     <item>
+      <title>Slash - Price comparison web</title>
+      <link>https://seoyeongpark.github.io/projects/slash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/projects/slash/</guid>
+      <description>Project design Slash is a website that scrapes the most popular e-commerce websites to get the best deals on the searched items across these websites.
+ Fast: With slash, you can save over 50% of your time by comparing deals across websites within seconds Easy: Slash uses very easy commands to filter, sort and search your items Powerful: Quickly alter the commands to get desired results Informative: Provides the information about items through an email with attached csv file  Instruction Refer to the official instruction</description>
+    </item>
+    
+    <item>
       <title>Search Results</title>
       <link>https://seoyeongpark.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -54,16 +64,6 @@ Setting a very low sitemap priority will tell search engines this is not importa
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml
 [outputs]home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;]Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
-    </item>
-    
-    <item>
-      <title>Slash - Price comparison web</title>
-      <link>https://seoyeongpark.github.io/projects/slash/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/projects/slash/</guid>
-      <description>Project design Slash is a website that scrapes the most popular e-commerce websites to get the best deals on the searched items across these websites.
- Fast: With slash, you can save over 50% of your time by comparing deals across websites within seconds Easy: Slash uses very easy commands to filter, sort and search your items Powerful: Quickly alter the commands to get desired results Informative: Provides the information about items through an email with attached csv file  Instruction Refer to the official instruction</description>
     </item>
     
   </channel>
