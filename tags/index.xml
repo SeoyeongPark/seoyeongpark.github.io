@@ -6,35 +6,53 @@
     <description>Recent content in Tags on Seoyeong Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seoyeongpark.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>AI</title>
-      <link>https://seoyeongpark.github.io/tags/ai/</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Accessibility</title>
+      <link>https://seoyeongpark.github.io/tags/accessibility/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://seoyeongpark.github.io/tags/ai/</guid>
+      <guid>https://seoyeongpark.github.io/tags/accessibility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HCI</title>
       <link>https://seoyeongpark.github.io/tags/hci/</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://seoyeongpark.github.io/tags/hci/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine Learning</title>
-      <link>https://seoyeongpark.github.io/tags/machine-learning/</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Mobile</title>
+      <link>https://seoyeongpark.github.io/tags/mobile/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://seoyeongpark.github.io/tags/machine-learning/</guid>
+      <guid>https://seoyeongpark.github.io/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology adoption</title>
+      <link>https://seoyeongpark.github.io/tags/technology-adoption/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/tags/technology-adoption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://seoyeongpark.github.io/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/tags/ai/</guid>
       <description></description>
     </item>
     

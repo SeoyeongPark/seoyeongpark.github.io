@@ -6,20 +6,9 @@
     <description>Recent content in AI on Seoyeong Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seoyeongpark.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Publication 1</title>
-      <link>https://seoyeongpark.github.io/publications/publication1/</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/publications/publication1/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
- Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
-    </item>
     
     <item>
       <title>Course scheduling with CSP</title>
