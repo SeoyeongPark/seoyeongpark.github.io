@@ -12,12 +12,30 @@
     
     
     <item>
-      <title>Identifying Barriers Faced by Older Adults in Mobile App Usage</title>
+      <title>Identifying Barriers Faced by Older Adults in Mobile App Usage (under review)</title>
       <link>https://seoyeongpark.github.io/publications/elderly-accessibility/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://seoyeongpark.github.io/publications/elderly-accessibility/</guid>
       <description>Abstract As life expectancy increases and the elderly population grows, the older adults&amp;rsquo; embrace of technology is highlighted in modern society as one of the key factors in closing the digital gap to prevent discrimination among different age groups. In this paper, we explore the psychological and technological factors that influence mobile usage by older users. In addition, we describe our observation about the supplement points of the present accessibility guidelines for older adults to embed them into the mobile environment to improve their independence and quality of life.</description>
+    </item>
+    
+    <item>
+      <title>Detecting correlation between emotional changes and writing style based on historical social media postings using NLP</title>
+      <link>https://seoyeongpark.github.io/research/emotion/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/research/emotion/</guid>
+      <description>Abstract  Discovering discernible changes in writing style depending on emotional shifts in online communication and social media posts Envisioning a conditional random field (CRF) that captures transitions in emotional states to create an empathetic language suggestion model that generates comforting and supportive responses to users  </description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning model for multi-objective food allocation optimization system</title>
+      <link>https://seoyeongpark.github.io/research/scc/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/research/scc/</guid>
+      <description>Abstract  Developing an RL-based user modeling framework for food agences to optimizae food allocation to end-users by capturing, shaping user needs and preferences, and nudging shifting tastes via persuasive messaging. Approaching as a multi-stakeholder recommendation system to consider benefits of both users and providers.  </description>
     </item>
     
     <item>

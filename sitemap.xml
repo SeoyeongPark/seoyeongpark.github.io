@@ -21,8 +21,26 @@
   </url>
   
   <url>
+    <loc>https://seoyeongpark.github.io/research/</loc>
+    <lastmod>2020-01-07T16:47:30+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://seoyeongpark.github.io/publications/elderly-accessibility/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/research/emotion/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/research/scc/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   
@@ -67,6 +85,46 @@
   <url>
     <loc>https://seoyeongpark.github.io/tags/technology-adoption/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/tags/emotions/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/tags/mental-states/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/tags/multi-objectives/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/tags/nlp/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/tags/optimization/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/tags/recommendation-system/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/tags/rl/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/tags/statistical-model/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url>
   
   <url>
