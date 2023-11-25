@@ -17,7 +17,7 @@
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
       
       <guid>https://seoyeongpark.github.io/research/emotion/</guid>
-      <description>Abstract  Discovering discernible changes in writing style depending on emotional shifts in online communication and social media posts Envisioning a conditional random field (CRF) that captures transitions in emotional states to create an empathetic language suggestion model that generates comforting and supportive responses to users Emotion modeling of event-based mental states changing using topic modeling Understanding Word attribution and vocabulary usages for emotional shifts  </description>
+      <description>Summary and goal  Emotion modeling of event-based mental states changing using topic modeling Understanding Word attribution and vocabulary usages for emotional shifts Discovering discernible changes in writing style depending on emotional shifts in online communication and social media posts Envisioning a conditional random field (CRF) that captures transitions in emotional states to create an empathetic language suggestion model that generates comforting and supportive responses to users  </description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
       
       <guid>https://seoyeongpark.github.io/research/scc/</guid>
-      <description>Abstract  Developing an RL-based user modeling framework for food agences to optimizae food allocation to end-users by capturing, shaping user needs and preferences, and nudging shifting tastes via persuasive messaging. Approaching as a multi-stakeholder recommendation system to consider benefits of both users and providers.  </description>
+      <description>Summary and goal  Developing an RL-based user modeling framework for food agencies to optimizae food allocation for end-users by capturing, shaping user needs and preferences, and nudging shifting tastes via persuasive strategies. Approaching as a value-awareness multistakeholder recommendation system balancing benefits of both users and community prosociality. Q-learning model based simulation that learns dynamic preference changes and food availability over time and reproduces close to reality.  </description>
     </item>
     
   </channel>
