@@ -39,6 +39,16 @@
   </url>
   
   <url>
+    <loc>https://seoyeongpark.github.io/research/emotion/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/research/scc/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://seoyeongpark.github.io/tags/accessibility/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url>
@@ -85,12 +95,17 @@
   </url>
   
   <url>
-    <loc>https://seoyeongpark.github.io/research/emotion/</loc>
+    <loc>https://seoyeongpark.github.io/tags/cognitive-architecture/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://seoyeongpark.github.io/tags/emotions/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seoyeongpark.github.io/tags/empathic-ai/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url>
   
@@ -130,17 +145,12 @@
   </url>
   
   <url>
-    <loc>https://seoyeongpark.github.io/research/scc/</loc>
-    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://seoyeongpark.github.io/tags/rl/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seoyeongpark.github.io/tags/statistical-model/</loc>
+    <loc>https://seoyeongpark.github.io/tags/statistical-modeling/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url>
   

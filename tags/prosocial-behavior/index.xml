@@ -17,7 +17,7 @@
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
       
       <guid>https://seoyeongpark.github.io/research/scc/</guid>
-      <description>Summary and goal  Developing an RL-based user modeling framework for food agencies to optimizae food allocation for end-users by capturing, shaping user needs and preferences, and nudging shifting tastes via persuasive strategies. Approaching as a value-awareness multistakeholder recommendation system balancing benefits of both users and community prosociality. Q-learning model based simulation that learns dynamic preference changes and food availability over time and reproduces close to reality.  </description>
+      <description>Summary and goal  Developing an RL-based user modeling framework for food agencies to optimizae food allocation for end-users by capturing, shaping user needs and preferences, and nudging shifting tastes via persuasive strategies. Approaching as a value-awareness multistakeholder recommendation system balancing benefits of both users and community prosociality. Q-learning based simulation model that learns dynamic preference changes and food availability over time and reproduces close to reality.  Abstract The global issue of food insecurity affects millions worldwide, posing challenges in ensuring access to nutritious food.</description>
     </item>
     
   </channel>

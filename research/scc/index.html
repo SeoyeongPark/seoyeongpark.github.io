@@ -5,10 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>Seoyeong Park | Reinforcement-learning-based optimization model for multi-stakeholder food allocation system</title>
   <meta property="og:title" content="Seoyeong Park | Reinforcement-learning-based optimization model for multi-stakeholder food allocation system" />
-  <meta property="og:image" content="https://seoyeongpark.github.io/img/profile-seoyeong.jpg" />
+  <meta property="og:image" content="https://seoyeongpark.github.io/img/profile-seoyeong-2.jpg" />
   <meta name="description" content="">
   <meta property="og:description" content="" />
   <meta name="author" content="Seoyeong Park">
+  <link rel="icon" type="image/x-icon" href="img/rocket.ico">
   
   
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-LJ46KRF8XZ"></script>
@@ -51,7 +52,7 @@
   <a class="navbar-brand js-scroll-trigger" href="#page-top">
     <span class="d-block d-lg-none">Seoyeong Park</span>
     <span class="d-none d-lg-block">
-      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/img/profile-seoyeong.jpg" alt="">
+      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/img/profile-seoyeong-2.jpg" alt="">
     </span>
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -140,13 +141,31 @@
     <h2 class="mb-0"><span class="text-primary">Reinforcement-learning-based optimization model for multi-stakeholder food allocation system</span></h2>
     
     
-    <h4 id="summary-and-goal">Summary and goal</h4>
+    
+  <br><br>
+
+<h4 id="summary-and-goal">Summary and goal</h4>
 <ul>
 <li>Developing an RL-based user modeling framework for food agencies to optimizae food allocation for end-users by capturing, shaping user needs and preferences, and nudging shifting tastes via persuasive strategies.</li>
 <li>Approaching as a value-awareness multistakeholder recommendation system balancing benefits of both users and community prosociality.</li>
-<li>Q-learning model based simulation that learns dynamic preference changes and food availability over time and reproduces close to reality.</li>
+<li>Q-learning based simulation model that learns dynamic preference changes and food availability over time and reproduces close to reality.</li>
 </ul>
-<!-- raw HTML omitted -->
+<h4 id="abstract">Abstract</h4>
+<p>The global issue of food insecurity affects millions worldwide, posing challenges in ensuring access to nutritious food. Despite efforts to address this, food waste and loss still impact food security. The food bank system plays a vital role in distributing available resources to those in need, directly impacting food security. However, diverse preferences among recipients pose a challenge under limited resources. Recent technological advancements offer opportunities to tackle food insecurity, often through personalized solutions. While the primary goal is to alleviate food insecurity, recipient satisfaction is crucial. Access to nutritious food is vital for physical and mental well-being, necessitating a balanced and personalized food distribution system. This paper aims to bridge the gap between personalization and prosociality in the AI field by proposing an optimization model that considers both stakeholders—providers and individuals. Using reinforcement learning, our model adapts to changing preferences and food availability over time, ensuring a fairer and more sustainable distribution. Results demonstrate superior performance compared to models focusing solely on users or the community, presenting promising implications for addressing food insecurity and resource allocation issues. Major contributions include a novel multistakeholder framework maximizing user satisfaction and societal benefits, acknowledging dynamic stakeholder contexts, and experimental verification of optimal allocation while fostering prosocial behavior.</p>
+<h4 id="stakeholders-and-objectives">Stakeholders and objectives</h4>
+<h5 id="users">Users</h5>
+<p>Users are the individuals to be served through our recommendation system. For users, the aim is to acquire recommendations that align with their preferences and needs. This user-centric perspective emphasizes the importance of enhancing user satisfaction and personalized experiences for food allocation.</p>
+<p><strong>User preferences</strong>: As users interact with the system, their preferences for food items are continuously captured and refined. Rather than being static, these dynamic preferences evolve over time shaped by various factors, including age, health status, dietary constraints, household status, willingness to make prosocial choices, and more. The system learns these dynamics by reflecting user feedback toward recommended food items. This continuous learning process allows the system to provide more personalized and relevant recommendations to users matching their tastes and unique situations of each individual. A user&rsquo;s preferences are represented by a set of tuples. In the decision-making modules of an agent, the agent understands the values and preferences of users in a community, the future state of the world for each action it can perform, and the social experience its user will derive for each action it can perform. By understanding the dynamic nature of user preferences, our model can effectively navigate the complexities of individual preferences and needs.</p>
+<h5 id="food-provider">Food provider</h5>
+<p>The provider&rsquo;s objective lies around ensuring the efficient allocation of available food resources, eventually maximizing the overall benefit to society. This includes minimizing food waste, optimizing food distribution, and supporting the broader community&rsquo;s needs while encouraging users to select food items that align with their preferences.</p>
+<p><strong>Provider&rsquo;s benefit</strong>: From the perspective of the provider, not all food items are treated as equal in reality. The provider has their own goodness for the food items that reflect their importance. These values are influenced by the urgency of consumption, which is decided by the available quantity of the item, its perishability, expiration dates, demand, and other resource constraints. Perishable items often carry higher priority on consumption due to their limited shelf life connecting with the need for immediate consumption. Similarly, food items with limited quantities may have lower values for community benefit than those with abundant supplies as they can&rsquo;t meet minimum user demand and need to be kept for users with priority needs. Food with high quantities may have higher values as it must be consumed faster. Different values are attached to different food items. These dynamic values are constantly updated in real-time as allocations are made. Since unsold food becomes waste, the model must allocate all remaining food before it expires.</p>
+<h5 id="overall-objective">Overall objective</h5>
+<p>As described in the previous section, the primary objectives are maximizing user satisfaction and simultaneously maximizing the provider&rsquo;s benefit. Our model moderates to achieve an optimal trade-off between two stakeholders. To balance these objectives, a weighted sum of user satisfaction and community benefit is used with a weighting factor.</p>
+<h4 id="resources">Resources</h4>
+<ul>
+<li><a href="#">Paper</a></li>
+<li><a href="#">Code</a></li>
+</ul>
 
     <p class="mt-3">
     <ul class="tags">
@@ -162,6 +181,8 @@
       <li><a class="tag" href="/tags/multi-objectives">Multi-objectives</a></li>
     
       <li><a class="tag" href="/tags/multi-stakeholders">Multi-stakeholders</a></li>
+    
+      <li><a class="tag" href="/tags/cognitive-architecture">Cognitive architecture</a></li>
     
 </ul>
 
