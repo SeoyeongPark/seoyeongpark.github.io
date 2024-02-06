@@ -75,11 +75,11 @@
     </item>
     
     <item>
-      <title>Emotions</title>
-      <link>https://seoyeongpark.github.io/tags/emotions/</link>
+      <title>Emotion</title>
+      <link>https://seoyeongpark.github.io/tags/emotion/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
       
-      <guid>https://seoyeongpark.github.io/tags/emotions/</guid>
+      <guid>https://seoyeongpark.github.io/tags/emotion/</guid>
       <description></description>
     </item>
     
@@ -102,20 +102,11 @@
     </item>
     
     <item>
-      <title>Multi-objectives</title>
-      <link>https://seoyeongpark.github.io/tags/multi-objectives/</link>
+      <title>Multistakeholder</title>
+      <link>https://seoyeongpark.github.io/tags/multistakeholder/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
       
-      <guid>https://seoyeongpark.github.io/tags/multi-objectives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-stakeholders</title>
-      <link>https://seoyeongpark.github.io/tags/multi-stakeholders/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/multi-stakeholders/</guid>
+      <guid>https://seoyeongpark.github.io/tags/multistakeholder/</guid>
       <description></description>
     </item>
     
@@ -156,11 +147,11 @@
     </item>
     
     <item>
-      <title>RL</title>
-      <link>https://seoyeongpark.github.io/tags/rl/</link>
+      <title>Reinforcement learning</title>
+      <link>https://seoyeongpark.github.io/tags/reinforcement-learning/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
       
-      <guid>https://seoyeongpark.github.io/tags/rl/</guid>
+      <guid>https://seoyeongpark.github.io/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
     
@@ -183,6 +174,15 @@
     </item>
     
     <item>
+      <title>Constraint satisfaction problem</title>
+      <link>https://seoyeongpark.github.io/tags/constraint-satisfaction-problem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/tags/constraint-satisfaction-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Course Project</title>
       <link>https://seoyeongpark.github.io/tags/course-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -197,15 +197,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://seoyeongpark.github.io/tags/course-scheduling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CSP</title>
-      <link>https://seoyeongpark.github.io/tags/csp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/csp/</guid>
       <description></description>
     </item>
     

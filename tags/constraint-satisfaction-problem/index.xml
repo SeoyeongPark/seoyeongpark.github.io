@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Constraint satisfaction problem on Seoyeong Park</title>
+    <link>https://seoyeongpark.github.io/tags/constraint-satisfaction-problem/</link>
+    <description>Recent content in Constraint satisfaction problem on Seoyeong Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>utf-8</language>
+    
+	<atom:link href="https://seoyeongpark.github.io/tags/constraint-satisfaction-problem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Course scheduling with CSP</title>
+      <link>https://seoyeongpark.github.io/projects/courseschedulingcsp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/projects/courseschedulingcsp/</guid>
+      <description>Project design The objective of this project is to help students design and simulate their course schedules based on given the dataset of the course listing.
+The course scheduler is considered as a constraint satisfaction problem by checking schedule conflicts and requirements to generate a feasible schedule with minimizing unsatisfied preference. We have assumed that every student must enroll as a full-time student, and they have a maximum credit limit. Each course contains information about time, prerequisites, instructor, and more.</description>
+    </item>
+    
+  </channel>
+</rss>
