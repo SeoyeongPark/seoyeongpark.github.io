@@ -6,10 +6,91 @@
     <description>Recent content in Tags on Seoyeong Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seoyeongpark.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Behavior</title>
+      <link>https://seoyeongpark.github.io/tags/behavior/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/tags/behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive architecture</title>
+      <link>https://seoyeongpark.github.io/tags/cognitive-architecture/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/tags/cognitive-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intervention</title>
+      <link>https://seoyeongpark.github.io/tags/intervention/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/tags/intervention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning</title>
+      <link>https://seoyeongpark.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empathy</title>
+      <link>https://seoyeongpark.github.io/tags/empathy/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/tags/empathy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multistakeholder</title>
+      <link>https://seoyeongpark.github.io/tags/multistakeholder/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/tags/multistakeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>https://seoyeongpark.github.io/tags/optimization/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preference</title>
+      <link>https://seoyeongpark.github.io/tags/preference/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/tags/preference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prosocial behavior</title>
+      <link>https://seoyeongpark.github.io/tags/prosocial-behavior/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/tags/prosocial-behavior/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accessibility</title>
@@ -17,15 +98,6 @@
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://seoyeongpark.github.io/tags/accessibility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Behavior</title>
-      <link>https://seoyeongpark.github.io/tags/behavior/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/behavior/</guid>
       <description></description>
     </item>
     
@@ -66,18 +138,9 @@
     </item>
     
     <item>
-      <title>Cognitive architecture</title>
-      <link>https://seoyeongpark.github.io/tags/cognitive-architecture/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/cognitive-architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Emotion</title>
       <link>https://seoyeongpark.github.io/tags/emotion/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
       
       <guid>https://seoyeongpark.github.io/tags/emotion/</guid>
       <description></description>
@@ -86,7 +149,7 @@
     <item>
       <title>Empathic AI</title>
       <link>https://seoyeongpark.github.io/tags/empathic-ai/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
       
       <guid>https://seoyeongpark.github.io/tags/empathic-ai/</guid>
       <description></description>
@@ -95,70 +158,25 @@
     <item>
       <title>Mental states</title>
       <link>https://seoyeongpark.github.io/tags/mental-states/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
       
       <guid>https://seoyeongpark.github.io/tags/mental-states/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multistakeholder</title>
-      <link>https://seoyeongpark.github.io/tags/multistakeholder/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/multistakeholder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>NLP</title>
       <link>https://seoyeongpark.github.io/tags/nlp/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
       
       <guid>https://seoyeongpark.github.io/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Optimization</title>
-      <link>https://seoyeongpark.github.io/tags/optimization/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preference</title>
-      <link>https://seoyeongpark.github.io/tags/preference/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/preference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prosocial behavior</title>
-      <link>https://seoyeongpark.github.io/tags/prosocial-behavior/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/prosocial-behavior/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement learning</title>
-      <link>https://seoyeongpark.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Statistical modeling</title>
       <link>https://seoyeongpark.github.io/tags/statistical-modeling/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
       
       <guid>https://seoyeongpark.github.io/tags/statistical-modeling/</guid>
       <description></description>

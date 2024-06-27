@@ -14,18 +14,27 @@
     <item>
       <title>Detecting Correlation Between Emotional Transition and Vocabulary Usage in Individual Social Media Posts Using NLP</title>
       <link>https://seoyeongpark.github.io/research/emotion/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
       
       <guid>https://seoyeongpark.github.io/research/emotion/</guid>
       <description>Summary and goal  Emotion modeling of event-based mental states changing using topic modeling Understanding word attribution and vocabulary usages for emotional shifts Discovering discernible changes in writing style depending on emotional shifts in online communication and social media posts Envisioning a conditional random field (CRF) that captures transitions in emotional states to create an empathetic language suggestion model that generates comforting and supportive responses to users  Phase 1 - Analysis of the Correlation Between Emotional Fluctuation and Usage of Words In today&amp;rsquo;s digital age, online communities like Reddit play a significant role in providing emotional support and a sense of belonging to individuals dealing with various life situations and struggles.</description>
     </item>
     
     <item>
-      <title>Optimization Model for Multi-Stakeholder Food Allocation System Using Reinforcement Learning.</title>
-      <link>https://seoyeongpark.github.io/research/scc/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <title>Influencing behavior change: adaptive interventions using cognitive mechanism</title>
+      <link>https://seoyeongpark.github.io/research/adaptive/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://seoyeongpark.github.io/research/scc/</guid>
+      <guid>https://seoyeongpark.github.io/research/adaptive/</guid>
+      <description>Summary and goal  TBC  Abstract  Publications  Paper  </description>
+    </item>
+    
+    <item>
+      <title>Optimization Model for Multi-Stakeholder Food Allocation System Using Reinforcement Learning</title>
+      <link>https://seoyeongpark.github.io/research/food-sharing/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/research/food-sharing/</guid>
       <description>Summary and goal  Developing an RL-based user modeling framework for food agencies to optimizae food allocation for end-users by capturing, shaping user needs and preferences, and nudging shifting tastes via persuasive strategies. Approaching as a value-awareness multistakeholder recommendation system balancing benefits of both users and community prosociality. Q-learning based simulation model that learns dynamic preference changes and food availability over time and reproduces close to reality.  Abstract The global issue of food insecurity affects millions worldwide, posing challenges in ensuring access to nutritious food.</description>
     </item>
     

@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Seoyeong Park | Publications</title>
-  <meta property="og:title" content="Seoyeong Park | Publications" />
+  <title>Seoyeong Park | Optimization Model for Multi-Stakeholder Food Allocation System Using Reinforcement Learning</title>
+  <meta property="og:title" content="Seoyeong Park | Optimization Model for Multi-Stakeholder Food Allocation System Using Reinforcement Learning" />
   <meta property="og:image" content="https://seoyeongpark.github.io/img/profile-seoyeong-2.jpg" />
-  <meta name="description" content="NA">
-  <meta property="og:description" content="NA" />
+  <meta name="description" content="">
+  <meta property="og:description" content="" />
   <meta name="author" content="Seoyeong Park">
   <link rel="icon" type="image/x-icon" href="img/rocket.ico">
   
@@ -133,13 +133,20 @@
 
 
 
+
+
 <li class="breadcrumb-item">
   <a href="https://seoyeongpark.github.io/">Home</a>
 </li>
 
 
+<li class="breadcrumb-item">
+  <a href="https://seoyeongpark.github.io/research/">Research Projects</a>
+</li>
+
+
 <li class="breadcrumb-item active">
-  <a href="https://seoyeongpark.github.io/publications/">Publications</a>
+  <a href="https://seoyeongpark.github.io/research/food-sharing/">Optimization Model for Multi-Stakeholder Food Allocation System Using Reinforcement Learning</a>
 </li>
 
   </ol>
@@ -148,55 +155,39 @@
 
 
 
-<section class="resume-section p-3 p-lg-5 d-flex flex-column">
-  <div class="my-auto" id="projects-content">
-    <h1 id="publications">Publications</h1>
-    <p><!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-</p>
-    
-        
-<div class="resume-item d-flex flex-column flex-md-row mb-5">
-  <div class="publication-content mr-auto">
-    <h3 class="mb-0"><a href="https://seoyeongpark.github.io/publications/elderly-accessibility/">Identifying Barriers Faced by Older Adults in Mobile App Usage (under review)</a></h3>
+<section class="resume-section p-3 p-lg-5 d-flex d-column content">
+  <div class="my-auto">
+    <h2 class="mb-0"><span class="text-primary">Optimization Model for Multi-Stakeholder Food Allocation System Using Reinforcement Learning</span></h2>
     
     
-    <div>Communication of ACM, Submitted in April 2023</div>
-    <p><a href="">Paper</a> </p>
-    <p><ul class="tags">
     
-      <li><a class="tag" href="/tags/cognitive-architechture">Cognitive architechture</a></li>
-    
-      <li><a class="tag" href="/tags/behavior">Behavior</a></li>
-    
-      <li><a class="tag" href="/tags/hci">HCI</a></li>
-    
-      <li><a class="tag" href="/tags/accessibility">Accessibility</a></li>
-    
-      <li><a class="tag" href="/tags/mobile">Mobile</a></li>
-    
-      <li><a class="tag" href="/tags/technology-adoption">Technology adoption</a></li>
-    
-</ul>
-</p>
-  </div>
-  <div class="resume-date text-md-right">
-    <span class="text-primary">April 2023</span>
-    <img src="" style="max-width:250px;padding:5px;"/>
-  </div>
-</div>
+  <br><br>
 
-    
-        
-<div class="resume-item d-flex flex-column flex-md-row mb-5">
-  <div class="publication-content mr-auto">
-    <h3 class="mb-0"><a href="https://seoyeongpark.github.io/publications/food-sharing/">MEAL: Model of Empathy Augmented Logistics for Food Security</a></h3>
-    
-    
-    <div>The 5th International Workshop on Autonomous Agents for Social Good (AASG), in conjunction with AAMAS 2024</div>
-    <p><a href="https://panosd.eu/aasg2024/papers/AASG2024_paper_14.pdf">Paper</a> </p>
-    <p><ul class="tags">
+<h4 id="summary-and-goal">Summary and goal</h4>
+<ul>
+<li>Developing an RL-based user modeling framework for food agencies to optimizae food allocation for end-users by capturing, shaping user needs and preferences, and nudging shifting tastes via persuasive strategies.</li>
+<li>Approaching as a value-awareness multistakeholder recommendation system balancing benefits of both users and community prosociality.</li>
+<li>Q-learning based simulation model that learns dynamic preference changes and food availability over time and reproduces close to reality.</li>
+</ul>
+<h4 id="abstract">Abstract</h4>
+<p>The global issue of food insecurity affects millions worldwide, posing challenges in ensuring access to nutritious food. Despite efforts to address this, food waste and loss still impact food security. The food bank system plays a vital role in distributing available resources to those in need, directly impacting food security. However, diverse preferences among recipients pose a challenge under limited resources. Recent technological advancements offer opportunities to tackle food insecurity, often through personalized solutions. While the primary goal is to alleviate food insecurity, recipient satisfaction is crucial. Access to nutritious food is vital for physical and mental well-being, necessitating a balanced and personalized food distribution system. This paper aims to bridge the gap between personalization and prosociality in the AI field by proposing an optimization model that considers both stakeholders—providers and individuals. Using reinforcement learning, our model adapts to changing preferences and food availability over time, ensuring a fairer and more sustainable distribution. Results demonstrate superior performance compared to models focusing solely on users or the community, presenting promising implications for addressing food insecurity and resource allocation issues. Major contributions include a novel multistakeholder framework maximizing user satisfaction and societal benefits, acknowledging dynamic stakeholder contexts, and experimental verification of optimal allocation while fostering prosocial behavior.</p>
+<h4 id="stakeholders-and-objectives">Stakeholders and objectives</h4>
+<h5 id="users">Users</h5>
+<p>Users are the individuals to be served through our recommendation system. For users, the aim is to acquire recommendations that align with their preferences and needs. This user-centric perspective emphasizes the importance of enhancing user satisfaction and personalized experiences for food allocation.</p>
+<p><strong>User preferences</strong>: As users interact with the system, their preferences for food items are continuously captured and refined. Rather than being static, these dynamic preferences evolve over time shaped by various factors, including age, health status, dietary constraints, household status, willingness to make prosocial choices, and more. The system learns these dynamics by reflecting user feedback toward recommended food items. This continuous learning process allows the system to provide more personalized and relevant recommendations to users matching their tastes and unique situations of each individual. A user&rsquo;s preferences are represented by a set of tuples. In the decision-making modules of an agent, the agent understands the values and preferences of users in a community, the future state of the world for each action it can perform, and the social experience its user will derive for each action it can perform. By understanding the dynamic nature of user preferences, our model can effectively navigate the complexities of individual preferences and needs.</p>
+<h5 id="food-provider">Food provider</h5>
+<p>The provider&rsquo;s objective lies around ensuring the efficient allocation of available food resources, eventually maximizing the overall benefit to society. This includes minimizing food waste, optimizing food distribution, and supporting the broader community&rsquo;s needs while encouraging users to select food items that align with their preferences.</p>
+<p><strong>Provider&rsquo;s benefit</strong>: From the perspective of the provider, not all food items are treated as equal in reality. The provider has their own goodness for the food items that reflect their importance. These values are influenced by the urgency of consumption, which is decided by the available quantity of the item, its perishability, expiration dates, demand, and other resource constraints. Perishable items often carry higher priority on consumption due to their limited shelf life connecting with the need for immediate consumption. Similarly, food items with limited quantities may have lower values for community benefit than those with abundant supplies as they can&rsquo;t meet minimum user demand and need to be kept for users with priority needs. Food with high quantities may have higher values as it must be consumed faster. Different values are attached to different food items. These dynamic values are constantly updated in real-time as allocations are made. Since unsold food becomes waste, the model must allocate all remaining food before it expires.</p>
+<h5 id="overall-objective">Overall objective</h5>
+<p>As described in the previous section, the primary objectives are maximizing user satisfaction and simultaneously maximizing the provider&rsquo;s benefit. Our model moderates to achieve an optimal trade-off between two stakeholders. To balance these objectives, a weighted sum of user satisfaction and community benefit is used with a weighting factor.</p>
+<hr>
+<h4 id="publications">Publications</h4>
+<ul>
+<li><a href="../../publications/food-sharing">Paper</a></li>
+</ul>
+
+    <p class="mt-3">
+    <ul class="tags">
     
       <li><a class="tag" href="/tags/reinforcement-learning">Reinforcement learning</a></li>
     
@@ -213,16 +204,8 @@
       <li><a class="tag" href="/tags/empathy">Empathy</a></li>
     
 </ul>
-</p>
-  </div>
-  <div class="resume-date text-md-right">
-    <span class="text-primary">April 2024</span>
-    <img src="" style="max-width:250px;padding:5px;"/>
-  </div>
-</div>
 
-    
-    
+    </p>
   </div>
 </section>
 
