@@ -20,23 +20,5 @@
       <description>Summary and goal  TBC  Abstract  Publications  Paper  </description>
     </item>
     
-    <item>
-      <title>MEAL: Model of Empathy Augmented Logistics for Food Security</title>
-      <link>https://seoyeongpark.github.io/publications/food-sharing/</link>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/publications/food-sharing/</guid>
-      <description>Abstract Millions globally lack access to nutritious food, experiencing food insecurity. Despite growing recognition and efforts, equitable distribution remains hard due to limited resources and the diverse preferences of users. The problem of equitable food distribution requires a robust, socially intelligent infrastructure. We propose Meal (Model of Empathy Augmented Logistics for Food Security), a novel approach based on a multistakeholder recommendation system for food allocation, balancing user needs and society&amp;rsquo;s sustainability.</description>
-    </item>
-    
-    <item>
-      <title>Optimization Model for Multi-Stakeholder Food Allocation System Using Reinforcement Learning</title>
-      <link>https://seoyeongpark.github.io/research/food-sharing/</link>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/research/food-sharing/</guid>
-      <description>Summary and goal  Developing an RL-based user modeling framework for food agencies to optimizae food allocation for end-users by capturing, shaping user needs and preferences, and nudging shifting tastes via persuasive strategies. Approaching as a value-awareness multistakeholder recommendation system balancing benefits of both users and community prosociality. Q-learning based simulation model that learns dynamic preference changes and food availability over time and reproduces close to reality.  Abstract The global issue of food insecurity affects millions worldwide, posing challenges in ensuring access to nutritious food.</description>
-    </item>
-    
   </channel>
 </rss>
