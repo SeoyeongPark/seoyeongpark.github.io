@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Clustering-based Multitask Classification for Predictive Consumer Behavior Modeling</title>
+      <link>https://seoyeongpark.github.io/research/nagoya/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
+      
+      <guid>https://seoyeongpark.github.io/research/nagoya/</guid>
+      <description>Abstract Understanding customers and segmenting in an appropriate way play a vital role in business operations and effective marketing strategies. It helps target specific customer groups for increased engagement and profit. However, traditional approaches often struggle to predict future purchase patterns, especially when user data is sparse and fragmented across multiple sources. This research proposes a novel clustering-based multitask classification method to address these limitations. We integrated the RFM model to cluster customers based on their purchase patterns from various purchase categories (tickets, merchandise, fan club membership) to create a more comprehensive understanding of loyalty for a professional basketball team in Japan.</description>
+    </item>
+    
+    <item>
       <title>Influencing behavior change: adaptive interventions using cognitive mechanism</title>
       <link>https://seoyeongpark.github.io/research/adaptive/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
