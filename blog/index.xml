@@ -4,12 +4,9 @@
     <title>blogs on Seoyeong Park</title>
     <link>https://seoyeongpark.github.io/blog/</link>
     <description>Recent content in blogs on Seoyeong Park</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate>
-    
-	<atom:link href="https://seoyeongpark.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://seoyeongpark.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

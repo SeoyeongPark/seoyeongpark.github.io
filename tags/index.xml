@@ -4,246 +4,191 @@
     <title>Tags on Seoyeong Park</title>
     <link>https://seoyeongpark.github.io/tags/</link>
     <description>Recent content in Tags on Seoyeong Park</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://seoyeongpark.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://seoyeongpark.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Behavior</title>
       <link>https://seoyeongpark.github.io/tags/behavior/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/behavior/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Cognitive architecture</title>
+      <title>Cognitive Architecture</title>
       <link>https://seoyeongpark.github.io/tags/cognitive-architecture/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/cognitive-architecture/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Intervention</title>
       <link>https://seoyeongpark.github.io/tags/intervention/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/intervention/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Multiagent</title>
       <link>https://seoyeongpark.github.io/tags/multiagent/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/multiagent/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Reinforcement learning</title>
+      <title>Reinforcement Learning</title>
       <link>https://seoyeongpark.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Empathy</title>
       <link>https://seoyeongpark.github.io/tags/empathy/</link>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/empathy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Optimization</title>
       <link>https://seoyeongpark.github.io/tags/optimization/</link>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/optimization/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Preference</title>
       <link>https://seoyeongpark.github.io/tags/preference/</link>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/preference/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Prosocial behavior</title>
+      <title>Prosocial Behavior</title>
       <link>https://seoyeongpark.github.io/tags/prosocial-behavior/</link>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/prosocial-behavior/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://seoyeongpark.github.io/tags/machine-learning/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://seoyeongpark.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Accessibility</title>
       <link>https://seoyeongpark.github.io/tags/accessibility/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://seoyeongpark.github.io/tags/accessibility/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Cognitive architechture</title>
+      <title>Cognitive Architechture</title>
       <link>https://seoyeongpark.github.io/tags/cognitive-architechture/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://seoyeongpark.github.io/tags/cognitive-architechture/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>HCI</title>
       <link>https://seoyeongpark.github.io/tags/hci/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://seoyeongpark.github.io/tags/hci/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mobile</title>
       <link>https://seoyeongpark.github.io/tags/mobile/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://seoyeongpark.github.io/tags/mobile/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Technology adoption</title>
+      <title>Technology Adoption</title>
       <link>https://seoyeongpark.github.io/tags/technology-adoption/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://seoyeongpark.github.io/tags/technology-adoption/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Emotion</title>
-      <link>https://seoyeongpark.github.io/tags/emotion/</link>
-      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/emotion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Empathic AI</title>
-      <link>https://seoyeongpark.github.io/tags/empathic-ai/</link>
-      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/empathic-ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine learning</title>
-      <link>https://seoyeongpark.github.io/tags/machine-learning/</link>
-      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mental states</title>
-      <link>https://seoyeongpark.github.io/tags/mental-states/</link>
-      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/mental-states/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLP</title>
-      <link>https://seoyeongpark.github.io/tags/nlp/</link>
-      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical modeling</title>
-      <link>https://seoyeongpark.github.io/tags/statistical-modeling/</link>
-      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/statistical-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://seoyeongpark.github.io/tags/ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Constraint satisfaction problem</title>
-      <link>https://seoyeongpark.github.io/tags/constraint-satisfaction-problem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/constraint-satisfaction-problem/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Course Project</title>
       <link>https://seoyeongpark.github.io/tags/course-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/course-project/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Course scheduling</title>
-      <link>https://seoyeongpark.github.io/tags/course-scheduling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seoyeongpark.github.io/tags/course-scheduling/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Python</title>
       <link>https://seoyeongpark.github.io/tags/python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SWE</title>
       <link>https://seoyeongpark.github.io/tags/swe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/swe/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>AI</title>
+      <link>https://seoyeongpark.github.io/tags/ai/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://seoyeongpark.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Constraint Satisfaction Problem</title>
+      <link>https://seoyeongpark.github.io/tags/constraint-satisfaction-problem/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://seoyeongpark.github.io/tags/constraint-satisfaction-problem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Course Scheduling</title>
+      <link>https://seoyeongpark.github.io/tags/course-scheduling/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://seoyeongpark.github.io/tags/course-scheduling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emotion</title>
+      <link>https://seoyeongpark.github.io/tags/emotion/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <guid>https://seoyeongpark.github.io/tags/emotion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Empathic AI</title>
+      <link>https://seoyeongpark.github.io/tags/empathic-ai/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <guid>https://seoyeongpark.github.io/tags/empathic-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental States</title>
+      <link>https://seoyeongpark.github.io/tags/mental-states/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <guid>https://seoyeongpark.github.io/tags/mental-states/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NLP</title>
+      <link>https://seoyeongpark.github.io/tags/nlp/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <guid>https://seoyeongpark.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistical Modeling</title>
+      <link>https://seoyeongpark.github.io/tags/statistical-modeling/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <guid>https://seoyeongpark.github.io/tags/statistical-modeling/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

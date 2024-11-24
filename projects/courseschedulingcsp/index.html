@@ -61,7 +61,7 @@
     <noscript><link rel="stylesheet" href="https://seoyeongpark.github.io/css/tweaks.css"></noscript>
   <link rel="preload" href="https://seoyeongpark.github.io/css/resume-override.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://seoyeongpark.github.io/css/resume-override.css"></noscript>
-  <meta name="generator" content="Hugo 0.68.1" />
+  <meta name="generator" content="Hugo 0.139.2">
   
    
   
@@ -196,7 +196,7 @@ Initially, we checked some ways to set domains as courses and variables as “Da
 </li>
 <li>Credit limitation
 <ul>
-<li>Based on the minimum / maximum credits designated by CSC department, 
+<li>Based on the minimum / maximum credits designated by CSC department,
 the summation of credits of courses taken by students should be in between minimum and maximum credits.</li>
 </ul>
 </li>
@@ -269,27 +269,27 @@ the summation of credits of courses taken by students should be in between minim
 <p>Out of solutions that are generated after checking hard constraints and weighting soft constraints, we filtered top 5 solutions out of entire outputs ordered by weights in descent.</p>
 <h3 id="results">Results</h3>
 <table>
-<thead>
-<tr>
-<th>Student profile</th>
-<th>Output</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="/img/csp/input.jpg" alt=""></td>
-<td><img src="/img/csp/output.jpg" alt=""></td>
-</tr>
-<tr>
-<td>↑ Student1’s profile</td>
-<td>↑ 14 solutions of student1’s profile. Highlighted solutions are with top 5 weights. PDF files are generated for those solutions.</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Student profile</th>
+          <th>Output</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><img src="/img/csp/input.jpg" alt=""></td>
+          <td><img src="/img/csp/output.jpg" alt=""></td>
+      </tr>
+      <tr>
+          <td>↑ Student1’s profile</td>
+          <td>↑ 14 solutions of student1’s profile. Highlighted solutions are with top 5 weights. PDF files are generated for those solutions.</td>
+      </tr>
+  </tbody>
 </table>
 <h3 id="visualized-solution---example">Visualized solution - example</h3>
 <p><img src="/img/csp/csp.png" alt=""></p>
 <h3 id="limitations-and-conclusion">Limitations and conclusion</h3>
-<p>Constraint satisfaction problem and its algorithms are applied in many real-world applications. We used a forward checking algorithm and backtracking to filter out hard constraints, however, its efficiency is relatively low when the maximum credit is getting larger. While working on this project, we got the course information and availability from the school website. However, due to our algorithm, our scraped data does not reflect real-time status. Courses listed in our solution may be already closed in reality. The last updated version is as of April 14, 2022. 
+<p>Constraint satisfaction problem and its algorithms are applied in many real-world applications. We used a forward checking algorithm and backtracking to filter out hard constraints, however, its efficiency is relatively low when the maximum credit is getting larger. While working on this project, we got the course information and availability from the school website. However, due to our algorithm, our scraped data does not reflect real-time status. Courses listed in our solution may be already closed in reality. The last updated version is as of April 14, 2022.
 Also, some assumptions(No consideration of requisites and location of courses) we initially made are needed to be handled. For example, we initially tried to take care of the course&rsquo;s prerequisites and corequisites. However, we decided to ignore these constraints because some prerequisites are not limited to computer science courses and the list of the courses taken in the student’s profile does not contain all courses offered outside computer science while some courses can actually require students to meet this requirements. In our future work, we take these assumptions into constraints to make a more optimal and practical course schedule.</p>
 <h3 id="reference">Reference</h3>
 <p>[1] Jwodder. “Jwodder/Schedule: Weekly Schedule Typesetter.” GitHub, github.com/jwodder/schedule.</p>
