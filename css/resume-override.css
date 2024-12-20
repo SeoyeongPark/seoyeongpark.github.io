@@ -1,29 +1,73 @@
 /* font 통일, 색깔 바꿔, highlight 확실히 */
 
-
-/* h1 {
-	font-family: "Playwrite DE SAS", cursive;
-	font-optical-sizing: 16pt;
-	font-weight: 400;
-	font-style: normal;
+@font-face {
+    font-family: 'Gyeonggi_Batang_Regular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff') format('woff');
+    font-weight: normal;  /*400, 700*/
+    font-style: normal;
 }
 
+@font-face {
+    font-family: 'Gyeonggi_Title_Medium';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Title_Medium.woff') format('woff');
+    font-weight: normal; /*300, 500, 700, 800*/
+    font-style: normal;
+}
 
-p {
-	font-family: "Nanum Gothic", sans-serif;
-	font-weight: 400;
+.mb-0 {
+	/* Name */
+    font-family: 'Gyeonggi_Title_Medium';
+	font-weight: 800;
+}
+
+.navbar-nav {
+	/* font-family: "Pretendard-Regular", */
+    font-family: 'Gyeonggi_Batang_Regular';
+}
+
+/* h1 {
+	font-family: "Playwrite DE SAS", cursive; */
+	/* font-family: "Pretendard-Regular";
+	font-family: "S-CoreDream-3Light";
+	font-optical-sizing: 16pt;
+	font-weight: 800;
 	font-style: normal;
 } */
 
+.mb-3, .pb-2, .pb-3 {
+	/* font-family: "S-CoreDream-3Light"; */
+    font-family: 'Gyeonggi_Batang_Regular';
+    /* font-family: 'Gyeonggi_Title_Medium'; */
+	font-weight: 200;
+}
+
+p, .subheading {
+    font-family: 'Gyeonggi_Batang_Regular';
+	font-style: normal;
+} 
+
+strong {
+    font-family: 'Gyeonggi_Batang_Regular';
+	font-style: normal;
+	font-weight: 700;
+	color:brown;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Gyeonggi_Title_Medium';
+}
+
+
 body{
  	
-	font-family: Calibri Condensed;
+	/* font-family: Calibri Condensed; */
 	/* font-family: "Nanum Gothic", sans-serif; */
+    font-family: 'Gyeonggi_Batang_Regular';
  } 
 
  .resume-section{
- 	
-	font-family: Calibri Condensed;
+    font-family: 'Gyeonggi_Batang_Regular';
+	/* font-family: Calibri Condensed; */
 	/* font-family: "Nanum Gothic", sans-serif; */
  }
 
@@ -39,6 +83,7 @@ body{
  
  a {
 	color: #4D648D;
+    font-family: 'Gyeonggi_Batang_Regular';
  }
  
  a:hover, a:focus, a:active {
