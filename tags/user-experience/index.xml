@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>User Experience on Seoyeong Park</title>
-    <link>https://seoyeongpark.github.io/tags/user-experience/</link>
+    <link>http://localhost:1313/tags/user-experience/</link>
     <description>Recent content in User Experience on Seoyeong Park</description>
     <generator>Hugo</generator>
     <language>utf-8</language>
     <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://seoyeongpark.github.io/tags/user-experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/user-experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Identifying Barriers Faced by Older Adults in Mobile App Usage</title>
-      <link>https://seoyeongpark.github.io/research/elderly-accessibility/</link>
+      <link>http://localhost:1313/research/elderly-accessibility/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/research/elderly-accessibility/</guid>
+      <guid>http://localhost:1313/research/elderly-accessibility/</guid>
       <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;As life expectancy increases and the elderly population grows, the older adults&amp;rsquo; embrace of technology is highlighted in modern society as one of the key factors in closing the digital gap to prevent discrimination among different age groups. In this paper, we explore the psychological and technological factors that influence mobile usage by older users. In addition, we describe our observation about the supplement points of the present accessibility guidelines for older adults to embed them into the mobile environment to improve their independence and quality of life. In brief, aging-specific factors classified into four categories (physical, cognition, perception, and motivation) are passively reflected in the existing accessibility guidelines. Rather the guidelines emphasize a narrow range of physical impairments and rely on device-built-in assistive tools. Since this phenomenon undermines older adults&amp;rsquo; willingness to technology adoption which led to the digital divide and ageism, we state the necessity for research in accessibility and aging users collaborating with AI to develop new design guidelines improved with aging and cognitive aspects to lower the technology barriers.&lt;/p&gt;</description>
     </item>
   </channel>

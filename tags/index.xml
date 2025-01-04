@@ -2,220 +2,220 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Seoyeong Park</title>
-    <link>https://seoyeongpark.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Seoyeong Park</description>
     <generator>Hugo</generator>
     <language>utf-8</language>
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://seoyeongpark.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Behavior</title>
-      <link>https://seoyeongpark.github.io/tags/behavior/</link>
+      <link>http://localhost:1313/tags/behavior/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/behavior/</guid>
+      <guid>http://localhost:1313/tags/behavior/</guid>
       <description></description>
     </item>
     <item>
       <title>Cognitive Architecture</title>
-      <link>https://seoyeongpark.github.io/tags/cognitive-architecture/</link>
+      <link>http://localhost:1313/tags/cognitive-architecture/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/cognitive-architecture/</guid>
+      <guid>http://localhost:1313/tags/cognitive-architecture/</guid>
       <description></description>
     </item>
     <item>
       <title>Intervention</title>
-      <link>https://seoyeongpark.github.io/tags/intervention/</link>
+      <link>http://localhost:1313/tags/intervention/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/intervention/</guid>
+      <guid>http://localhost:1313/tags/intervention/</guid>
       <description></description>
     </item>
     <item>
       <title>Multiagent</title>
-      <link>https://seoyeongpark.github.io/tags/multiagent/</link>
+      <link>http://localhost:1313/tags/multiagent/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/multiagent/</guid>
+      <guid>http://localhost:1313/tags/multiagent/</guid>
       <description></description>
     </item>
     <item>
       <title>Persuasion</title>
-      <link>https://seoyeongpark.github.io/tags/persuasion/</link>
+      <link>http://localhost:1313/tags/persuasion/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/persuasion/</guid>
+      <guid>http://localhost:1313/tags/persuasion/</guid>
       <description></description>
     </item>
     <item>
       <title>Reinforcement Learning</title>
-      <link>https://seoyeongpark.github.io/tags/reinforcement-learning/</link>
+      <link>http://localhost:1313/tags/reinforcement-learning/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/reinforcement-learning/</guid>
+      <guid>http://localhost:1313/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Theory of Mind</title>
-      <link>https://seoyeongpark.github.io/tags/theory-of-mind/</link>
+      <link>http://localhost:1313/tags/theory-of-mind/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/theory-of-mind/</guid>
+      <guid>http://localhost:1313/tags/theory-of-mind/</guid>
       <description></description>
     </item>
     <item>
       <title>Empathy</title>
-      <link>https://seoyeongpark.github.io/tags/empathy/</link>
+      <link>http://localhost:1313/tags/empathy/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/empathy/</guid>
+      <guid>http://localhost:1313/tags/empathy/</guid>
       <description></description>
     </item>
     <item>
       <title>Optimization</title>
-      <link>https://seoyeongpark.github.io/tags/optimization/</link>
+      <link>http://localhost:1313/tags/optimization/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/optimization/</guid>
+      <guid>http://localhost:1313/tags/optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Preference</title>
-      <link>https://seoyeongpark.github.io/tags/preference/</link>
+      <link>http://localhost:1313/tags/preference/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/preference/</guid>
+      <guid>http://localhost:1313/tags/preference/</guid>
       <description></description>
     </item>
     <item>
       <title>Prosocial Behavior</title>
-      <link>https://seoyeongpark.github.io/tags/prosocial-behavior/</link>
+      <link>http://localhost:1313/tags/prosocial-behavior/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/prosocial-behavior/</guid>
+      <guid>http://localhost:1313/tags/prosocial-behavior/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Science</title>
-      <link>https://seoyeongpark.github.io/tags/data-science/</link>
+      <link>http://localhost:1313/tags/data-science/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/data-science/</guid>
+      <guid>http://localhost:1313/tags/data-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>https://seoyeongpark.github.io/tags/machine-learning/</link>
+      <link>http://localhost:1313/tags/machine-learning/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/machine-learning/</guid>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Accessibility</title>
-      <link>https://seoyeongpark.github.io/tags/accessibility/</link>
+      <link>http://localhost:1313/tags/accessibility/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/accessibility/</guid>
+      <guid>http://localhost:1313/tags/accessibility/</guid>
       <description></description>
     </item>
     <item>
       <title>Cognitive Architechture</title>
-      <link>https://seoyeongpark.github.io/tags/cognitive-architechture/</link>
+      <link>http://localhost:1313/tags/cognitive-architechture/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/cognitive-architechture/</guid>
+      <guid>http://localhost:1313/tags/cognitive-architechture/</guid>
       <description></description>
     </item>
     <item>
       <title>HCI</title>
-      <link>https://seoyeongpark.github.io/tags/hci/</link>
+      <link>http://localhost:1313/tags/hci/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/hci/</guid>
+      <guid>http://localhost:1313/tags/hci/</guid>
       <description></description>
     </item>
     <item>
       <title>Mobile</title>
-      <link>https://seoyeongpark.github.io/tags/mobile/</link>
+      <link>http://localhost:1313/tags/mobile/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/mobile/</guid>
+      <guid>http://localhost:1313/tags/mobile/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology Adoption</title>
-      <link>https://seoyeongpark.github.io/tags/technology-adoption/</link>
+      <link>http://localhost:1313/tags/technology-adoption/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/technology-adoption/</guid>
+      <guid>http://localhost:1313/tags/technology-adoption/</guid>
       <description></description>
     </item>
     <item>
       <title>User Experience</title>
-      <link>https://seoyeongpark.github.io/tags/user-experience/</link>
+      <link>http://localhost:1313/tags/user-experience/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/user-experience/</guid>
+      <guid>http://localhost:1313/tags/user-experience/</guid>
       <description></description>
     </item>
     <item>
       <title>Course Project</title>
-      <link>https://seoyeongpark.github.io/tags/course-project/</link>
+      <link>http://localhost:1313/tags/course-project/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/course-project/</guid>
+      <guid>http://localhost:1313/tags/course-project/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://seoyeongpark.github.io/tags/python/</link>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>SWE</title>
-      <link>https://seoyeongpark.github.io/tags/swe/</link>
+      <link>http://localhost:1313/tags/swe/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/swe/</guid>
+      <guid>http://localhost:1313/tags/swe/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://seoyeongpark.github.io/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Constraint Satisfaction Problem</title>
-      <link>https://seoyeongpark.github.io/tags/constraint-satisfaction-problem/</link>
+      <link>http://localhost:1313/tags/constraint-satisfaction-problem/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/constraint-satisfaction-problem/</guid>
+      <guid>http://localhost:1313/tags/constraint-satisfaction-problem/</guid>
       <description></description>
     </item>
     <item>
       <title>Course Scheduling</title>
-      <link>https://seoyeongpark.github.io/tags/course-scheduling/</link>
+      <link>http://localhost:1313/tags/course-scheduling/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/course-scheduling/</guid>
+      <guid>http://localhost:1313/tags/course-scheduling/</guid>
       <description></description>
     </item>
     <item>
       <title>Emotion</title>
-      <link>https://seoyeongpark.github.io/tags/emotion/</link>
+      <link>http://localhost:1313/tags/emotion/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/emotion/</guid>
+      <guid>http://localhost:1313/tags/emotion/</guid>
       <description></description>
     </item>
     <item>
       <title>Empathic AI</title>
-      <link>https://seoyeongpark.github.io/tags/empathic-ai/</link>
+      <link>http://localhost:1313/tags/empathic-ai/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/empathic-ai/</guid>
+      <guid>http://localhost:1313/tags/empathic-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Mental States</title>
-      <link>https://seoyeongpark.github.io/tags/mental-states/</link>
+      <link>http://localhost:1313/tags/mental-states/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/mental-states/</guid>
+      <guid>http://localhost:1313/tags/mental-states/</guid>
       <description></description>
     </item>
     <item>
       <title>NLP</title>
-      <link>https://seoyeongpark.github.io/tags/nlp/</link>
+      <link>http://localhost:1313/tags/nlp/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/nlp/</guid>
+      <guid>http://localhost:1313/tags/nlp/</guid>
       <description></description>
     </item>
     <item>
       <title>Statistical Modeling</title>
-      <link>https://seoyeongpark.github.io/tags/statistical-modeling/</link>
+      <link>http://localhost:1313/tags/statistical-modeling/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/statistical-modeling/</guid>
+      <guid>http://localhost:1313/tags/statistical-modeling/</guid>
       <description></description>
     </item>
   </channel>

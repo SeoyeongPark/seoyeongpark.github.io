@@ -2,147 +2,147 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://seoyeongpark.github.io/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2020-01-07T16:47:30+00:00</lastmod>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://seoyeongpark.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2020-01-07T16:47:30+00:00</lastmod>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://seoyeongpark.github.io/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
     <lastmod>2020-01-07T16:47:30+00:00</lastmod>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://seoyeongpark.github.io/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
     <lastmod>2020-01-07T16:47:30+00:00</lastmod>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://seoyeongpark.github.io/projects/courseschedulingcsp/</loc>
+    <loc>http://localhost:1313/projects/courseschedulingcsp/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/projects/stockimpulse/</loc>
+    <loc>http://localhost:1313/projects/stockimpulse/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/projects/slash/</loc>
+    <loc>http://localhost:1313/projects/slash/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/research/emotion/</loc>
+    <loc>http://localhost:1313/research/emotion/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/research/nagoya/</loc>
+    <loc>http://localhost:1313/research/nagoya/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/behavior/</loc>
+    <loc>http://localhost:1313/tags/behavior/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/cognitive-architecture/</loc>
+    <loc>http://localhost:1313/tags/cognitive-architecture/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <priority>1</priority>
   </url><url>
-    <loc>https://seoyeongpark.github.io/research/adaptive/</loc>
+    <loc>http://localhost:1313/research/adaptive/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/intervention/</loc>
+    <loc>http://localhost:1313/tags/intervention/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/multiagent/</loc>
+    <loc>http://localhost:1313/tags/multiagent/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/persuasion/</loc>
+    <loc>http://localhost:1313/tags/persuasion/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/reinforcement-learning/</loc>
+    <loc>http://localhost:1313/tags/reinforcement-learning/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/theory-of-mind/</loc>
+    <loc>http://localhost:1313/tags/theory-of-mind/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/empathy/</loc>
+    <loc>http://localhost:1313/tags/empathy/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/optimization/</loc>
+    <loc>http://localhost:1313/tags/optimization/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/research/food-sharing/</loc>
+    <loc>http://localhost:1313/research/food-sharing/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/preference/</loc>
+    <loc>http://localhost:1313/tags/preference/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/prosocial-behavior/</loc>
+    <loc>http://localhost:1313/tags/prosocial-behavior/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/data-science/</loc>
+    <loc>http://localhost:1313/tags/data-science/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/publications/food-sharing/</loc>
+    <loc>http://localhost:1313/publications/food-sharing/</loc>
     <lastmod>2024-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/accessibility/</loc>
+    <loc>http://localhost:1313/tags/accessibility/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/cognitive-architechture/</loc>
+    <loc>http://localhost:1313/tags/cognitive-architechture/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/hci/</loc>
+    <loc>http://localhost:1313/tags/hci/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/research/elderly-accessibility/</loc>
+    <loc>http://localhost:1313/research/elderly-accessibility/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/mobile/</loc>
+    <loc>http://localhost:1313/tags/mobile/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/technology-adoption/</loc>
+    <loc>http://localhost:1313/tags/technology-adoption/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/user-experience/</loc>
+    <loc>http://localhost:1313/tags/user-experience/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/course-project/</loc>
+    <loc>http://localhost:1313/tags/course-project/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/swe/</loc>
+    <loc>http://localhost:1313/tags/swe/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/ai/</loc>
+    <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/constraint-satisfaction-problem/</loc>
+    <loc>http://localhost:1313/tags/constraint-satisfaction-problem/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/course-scheduling/</loc>
+    <loc>http://localhost:1313/tags/course-scheduling/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/emotion/</loc>
+    <loc>http://localhost:1313/tags/emotion/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/empathic-ai/</loc>
+    <loc>http://localhost:1313/tags/empathic-ai/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/mental-states/</loc>
+    <loc>http://localhost:1313/tags/mental-states/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/nlp/</loc>
+    <loc>http://localhost:1313/tags/nlp/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/tags/statistical-modeling/</loc>
+    <loc>http://localhost:1313/tags/statistical-modeling/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>https://seoyeongpark.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <priority>0.1</priority>
   </url>
 </urlset>
