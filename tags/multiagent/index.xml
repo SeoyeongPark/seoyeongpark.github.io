@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multiagent on Seoyeong Park</title>
-    <link>http://localhost:1313/tags/multiagent/</link>
+    <link>https://seoyeongpark.github.io/tags/multiagent/</link>
     <description>Recent content in Multiagent on Seoyeong Park</description>
     <generator>Hugo</generator>
     <language>utf-8</language>
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/multiagent/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://seoyeongpark.github.io/tags/multiagent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Influencing behavior change: adaptive interventions using cognitive mechanism</title>
-      <link>http://localhost:1313/research/adaptive/</link>
+      <link>https://seoyeongpark.github.io/research/adaptive/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/adaptive/</guid>
+      <guid>https://seoyeongpark.github.io/research/adaptive/</guid>
       <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;summary-and-goal&#34;&gt;Summary and goal&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBC&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;How do people choose actions? Understanding the complexity of the human mind has been a persistent challenge in recent studies. How people choose actions is a complex and multifaceted task in the field of human behavior modeling. This challenge arises from the inherent complexity and diversity of human cognition, which is influenced by a lot of factors, including individual differences, environmental contexts, and the dynamic interplay between conscious and unconscious processes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimization Model for Multi-Stakeholder Food Allocation System Using Reinforcement Learning</title>
-      <link>http://localhost:1313/research/food-sharing/</link>
+      <link>https://seoyeongpark.github.io/research/food-sharing/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/food-sharing/</guid>
+      <guid>https://seoyeongpark.github.io/research/food-sharing/</guid>
       <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;summary-and-goal&#34;&gt;Summary and goal&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developing an RL-based user modeling framework for food agencies to optimizae food allocation for end-users by capturing, shaping user needs and preferences, and nudging shifting tastes via persuasive strategies.&lt;/li&gt;&#xA;&lt;li&gt;Approaching as a value-awareness multistakeholder recommendation system balancing benefits of both users and community prosociality.&lt;/li&gt;&#xA;&lt;li&gt;Q-learning based simulation model that learns dynamic preference changes and food availability over time and reproduces close to reality.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;The global issue of food insecurity affects millions worldwide, posing challenges in ensuring access to nutritious food. Despite efforts to address this, food waste and loss still impact food security. The food bank system plays a vital role in distributing available resources to those in need, directly impacting food security. However, diverse preferences among recipients pose a challenge under limited resources. Recent technological advancements offer opportunities to tackle food insecurity, often through personalized solutions. While the primary goal is to alleviate food insecurity, recipient satisfaction is crucial. Access to nutritious food is vital for physical and mental well-being, necessitating a balanced and personalized food distribution system. This paper aims to bridge the gap between personalization and prosociality in the AI field by proposing an optimization model that considers both stakeholders—providers and individuals. Using reinforcement learning, our model adapts to changing preferences and food availability over time, ensuring a fairer and more sustainable distribution. Results demonstrate superior performance compared to models focusing solely on users or the community, presenting promising implications for addressing food insecurity and resource allocation issues. Major contributions include a novel multistakeholder framework maximizing user satisfaction and societal benefits, acknowledging dynamic stakeholder contexts, and experimental verification of optimal allocation while fostering prosocial behavior.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MEAL: Model of Empathy Augmented Logistics for Food Security</title>
-      <link>http://localhost:1313/publications/food-sharing/</link>
+      <link>https://seoyeongpark.github.io/publications/food-sharing/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/food-sharing/</guid>
+      <guid>https://seoyeongpark.github.io/publications/food-sharing/</guid>
       <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;Millions globally lack access to nutritious food, experiencing food insecurity. Despite growing recognition and efforts, equitable distribution remains hard due to limited resources and the diverse preferences of users. The problem of equitable food distribution requires a robust, socially intelligent infrastructure. We propose Meal (Model of Empathy Augmented Logistics for Food Security), a novel approach based on a multistakeholder recommendation system for food allocation, balancing user needs and society&amp;rsquo;s sustainability. Unlike existing systems that focus on either user satisfaction or logistical operations, our model considers both users and food banks, dynamically adapting to changing preferences and resource availability. Our simulated experiments demonstrate improvement in metrics such as over single-stakeholder models, suggesting significant potential for improved food access and resource utilization in addressing food insecurity.&lt;/p&gt;</description>
     </item>
   </channel>

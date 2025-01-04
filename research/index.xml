@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research Projects on Seoyeong Park</title>
-    <link>http://localhost:1313/research/</link>
+    <link>https://seoyeongpark.github.io/research/</link>
     <description>Recent content in Research Projects on Seoyeong Park</description>
     <generator>Hugo</generator>
     <language>utf-8</language>
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://seoyeongpark.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Detecting Correlation Between Emotional Transition and Vocabulary Usage in Individual Social Media Posts Using NLP</title>
-      <link>http://localhost:1313/research/emotion/</link>
+      <link>https://seoyeongpark.github.io/research/emotion/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://localhost:1313/research/emotion/</guid>
+      <guid>https://seoyeongpark.github.io/research/emotion/</guid>
       <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;summary-and-goal&#34;&gt;Summary and goal&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Emotion modeling of event-based mental states changing using topic modeling&lt;/li&gt;&#xA;&lt;li&gt;Understanding word attribution and vocabulary usages for emotional shifts&lt;/li&gt;&#xA;&lt;li&gt;Discovering discernible changes in writing style depending on emotional shifts in online communication and social media posts&lt;/li&gt;&#xA;&lt;li&gt;Envisioning a conditional random field (CRF) that captures transitions in emotional states to create an empathetic language suggestion model that generates comforting and supportive responses to users&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;analysis-of-the-correlation-between-emotional-fluctuation-and-usage-of-words&#34;&gt;Analysis of the Correlation Between Emotional Fluctuation and Usage of Words&lt;/h4&gt;&#xA;&lt;p&gt;In today&amp;rsquo;s digital age, online communities like Reddit play a significant role in providing emotional support and a sense of belonging to individuals dealing with various life situations and struggles. Users often express their feelings, emotions, and experiences on different subreddit communities and are provided with empathetic responses. Harnessing the valuable data generated within these communities is crucial in gaining insight into human emotion.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Clustering-based Multitask Classification for Predictive Consumer Behavior Modeling</title>
-      <link>http://localhost:1313/research/nagoya/</link>
+      <link>https://seoyeongpark.github.io/research/nagoya/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/nagoya/</guid>
+      <guid>https://seoyeongpark.github.io/research/nagoya/</guid>
       <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;Understanding customers and segmenting in an appropriate way play a vital role in business operations and effective marketing strategies. It helps target specific customer groups for increased engagement and profit. However, traditional approaches often struggle to predict future purchase patterns, especially when user data is sparse and fragmented across multiple sources. This research proposes a novel clustering-based multitask classification method to address these limitations. We integrated the Recency, Frequency Monetary (RFM) model to cluster customers based on their purchase patterns from various purchase categories (tickets, merchandise, fan club membership) to create a more comprehensive understanding of loyalty for a professional basketball team in Japan. The proposed model predicts a customer&amp;rsquo;s segment across all purchase categories, implying the potential relationships between each category. Initial results demonstrate that the model effectively analyzes purchase behaviors, offering actionable insights to enhance marketing strategies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Influencing behavior change: adaptive interventions using cognitive mechanism</title>
-      <link>http://localhost:1313/research/adaptive/</link>
+      <link>https://seoyeongpark.github.io/research/adaptive/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/adaptive/</guid>
+      <guid>https://seoyeongpark.github.io/research/adaptive/</guid>
       <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;summary-and-goal&#34;&gt;Summary and goal&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBC&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;How do people choose actions? Understanding the complexity of the human mind has been a persistent challenge in recent studies. How people choose actions is a complex and multifaceted task in the field of human behavior modeling. This challenge arises from the inherent complexity and diversity of human cognition, which is influenced by a lot of factors, including individual differences, environmental contexts, and the dynamic interplay between conscious and unconscious processes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimization Model for Multi-Stakeholder Food Allocation System Using Reinforcement Learning</title>
-      <link>http://localhost:1313/research/food-sharing/</link>
+      <link>https://seoyeongpark.github.io/research/food-sharing/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/food-sharing/</guid>
+      <guid>https://seoyeongpark.github.io/research/food-sharing/</guid>
       <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;summary-and-goal&#34;&gt;Summary and goal&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developing an RL-based user modeling framework for food agencies to optimizae food allocation for end-users by capturing, shaping user needs and preferences, and nudging shifting tastes via persuasive strategies.&lt;/li&gt;&#xA;&lt;li&gt;Approaching as a value-awareness multistakeholder recommendation system balancing benefits of both users and community prosociality.&lt;/li&gt;&#xA;&lt;li&gt;Q-learning based simulation model that learns dynamic preference changes and food availability over time and reproduces close to reality.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;The global issue of food insecurity affects millions worldwide, posing challenges in ensuring access to nutritious food. Despite efforts to address this, food waste and loss still impact food security. The food bank system plays a vital role in distributing available resources to those in need, directly impacting food security. However, diverse preferences among recipients pose a challenge under limited resources. Recent technological advancements offer opportunities to tackle food insecurity, often through personalized solutions. While the primary goal is to alleviate food insecurity, recipient satisfaction is crucial. Access to nutritious food is vital for physical and mental well-being, necessitating a balanced and personalized food distribution system. This paper aims to bridge the gap between personalization and prosociality in the AI field by proposing an optimization model that considers both stakeholders—providers and individuals. Using reinforcement learning, our model adapts to changing preferences and food availability over time, ensuring a fairer and more sustainable distribution. Results demonstrate superior performance compared to models focusing solely on users or the community, presenting promising implications for addressing food insecurity and resource allocation issues. Major contributions include a novel multistakeholder framework maximizing user satisfaction and societal benefits, acknowledging dynamic stakeholder contexts, and experimental verification of optimal allocation while fostering prosocial behavior.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Identifying Barriers Faced by Older Adults in Mobile App Usage</title>
-      <link>http://localhost:1313/research/elderly-accessibility/</link>
+      <link>https://seoyeongpark.github.io/research/elderly-accessibility/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/elderly-accessibility/</guid>
+      <guid>https://seoyeongpark.github.io/research/elderly-accessibility/</guid>
       <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;As life expectancy increases and the elderly population grows, the older adults&amp;rsquo; embrace of technology is highlighted in modern society as one of the key factors in closing the digital gap to prevent discrimination among different age groups. In this paper, we explore the psychological and technological factors that influence mobile usage by older users. In addition, we describe our observation about the supplement points of the present accessibility guidelines for older adults to embed them into the mobile environment to improve their independence and quality of life. In brief, aging-specific factors classified into four categories (physical, cognition, perception, and motivation) are passively reflected in the existing accessibility guidelines. Rather the guidelines emphasize a narrow range of physical impairments and rely on device-built-in assistive tools. Since this phenomenon undermines older adults&amp;rsquo; willingness to technology adoption which led to the digital divide and ageism, we state the necessity for research in accessibility and aging users collaborating with AI to develop new design guidelines improved with aging and cognitive aspects to lower the technology barriers.&lt;/p&gt;</description>
     </item>
   </channel>

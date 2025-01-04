@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Constraint Satisfaction Problem on Seoyeong Park</title>
-    <link>http://localhost:1313/tags/constraint-satisfaction-problem/</link>
+    <link>https://seoyeongpark.github.io/tags/constraint-satisfaction-problem/</link>
     <description>Recent content in Constraint Satisfaction Problem on Seoyeong Park</description>
     <generator>Hugo</generator>
     <language>utf-8</language>
     <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/constraint-satisfaction-problem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://seoyeongpark.github.io/tags/constraint-satisfaction-problem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Course scheduling with CSP</title>
-      <link>http://localhost:1313/projects/courseschedulingcsp/</link>
+      <link>https://seoyeongpark.github.io/projects/courseschedulingcsp/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/courseschedulingcsp/</guid>
+      <guid>https://seoyeongpark.github.io/projects/courseschedulingcsp/</guid>
       <description>&lt;h3 id=&#34;project-design&#34;&gt;Project design&lt;/h3&gt;&#xA;&lt;p&gt;The objective of this project is to help students design and simulate their course schedules based on given the dataset of the course listing.&lt;br&gt;&#xA;The course scheduler is considered as a constraint satisfaction problem by checking schedule conflicts and requirements to generate a feasible schedule with minimizing unsatisfied preference. We have assumed that every student must enroll as a full-time student, and they have a maximum credit limit. Each course contains information about time, prerequisites, instructor, and more. Each student has a profile of courses they took, degree requirements, level of degree, and more.&lt;/p&gt;</description>
     </item>
   </channel>
