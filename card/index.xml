@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wanna collaborate? on Seoyeong Park</title>
-    <link>http://localhost:1313/_card/</link>
+    <link>https://seoyeongpark.github.io/card/</link>
     <description>Recent content in Wanna collaborate? on Seoyeong Park</description>
     <generator>Hugo</generator>
     <language>utf-8</language>
-    <atom:link href="http://localhost:1313/_card/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://seoyeongpark.github.io/card/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
