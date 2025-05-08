@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Modeling on Seoyeong Park</title>
+    <link>https://seoyeongpark.github.io/tags/user-modeling/</link>
+    <description>Recent content in User Modeling on Seoyeong Park</description>
+    <generator>Hugo</generator>
+    <language>utf-8</language>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://seoyeongpark.github.io/tags/user-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clustering-based Multitask Classification for Predictive Consumer Behavior Modeling</title>
+      <link>https://seoyeongpark.github.io/research/nagoya/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://seoyeongpark.github.io/research/nagoya/</guid>
+      <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;Understanding customers and segmenting in an appropriate way play a vital role in business operations and effective marketing strategies. It helps target specific customer groups for increased engagement and profit. However, traditional approaches often struggle to predict future purchase patterns, especially when user data is sparse and fragmented across multiple sources. This research proposes a novel clustering-based multitask classification method to address these limitations. We integrated the Recency, Frequency Monetary (RFM) model to cluster customers based on their purchase patterns from various purchase categories (tickets, merchandise, fan club membership) to create a more comprehensive understanding of loyalty for a professional basketball team in Japan. The proposed model predicts a customer&amp;rsquo;s segment across all purchase categories, implying the potential relationships between each category. Initial results demonstrate that the model effectively analyzes purchase behaviors, offering actionable insights to enhance marketing strategies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Clustering-Based Multitask Classification for Predictive Consumer Behavior Modeling</title>
+      <link>https://seoyeongpark.github.io/publications/ml-nagoya/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://seoyeongpark.github.io/publications/ml-nagoya/</guid>
+      <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;Understanding customers and segmenting in an appropriate way play a vital role in business operations and effective marketing strategies. It helps target specific customer groups for increased engagement and profit. However, traditional approaches often struggle to predict future purchase patterns, especially when user data is sparse and fragmented across multiple sources. This research proposes a novel clustering-based multitask classification method to address these limitations. We integrated the Recency, Frequency Monetary (RFM) model to cluster customers based on their purchase patterns from various purchase categories (tickets, merchandise, fan club membership) to create a more comprehensive understanding of loyalty for a professional basketball team in Japan. The proposed model predicts a customer&amp;rsquo;s segment across all purchase categories, implying the potential relationships between each category. Initial results demonstrate that the model effectively analyzes purchase behaviors, offering actionable insights to enhance marketing strategies.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

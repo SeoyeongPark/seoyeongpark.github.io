@@ -6,13 +6,34 @@
     <description>Recent content in Tags on Seoyeong Park</description>
     <generator>Hugo</generator>
     <language>utf-8</language>
-    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://seoyeongpark.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Behavior</title>
       <link>https://seoyeongpark.github.io/tags/behavior/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/behavior/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Science</title>
+      <link>https://seoyeongpark.github.io/tags/data-science/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://seoyeongpark.github.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>https://seoyeongpark.github.io/tags/machine-learning/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://seoyeongpark.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>User Modeling</title>
+      <link>https://seoyeongpark.github.io/tags/user-modeling/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://seoyeongpark.github.io/tags/user-modeling/</guid>
       <description></description>
     </item>
     <item>
@@ -83,20 +104,6 @@
       <link>https://seoyeongpark.github.io/tags/prosocial-behavior/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/tags/prosocial-behavior/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Science</title>
-      <link>https://seoyeongpark.github.io/tags/data-science/</link>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/data-science/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>https://seoyeongpark.github.io/tags/machine-learning/</link>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
@@ -186,35 +193,35 @@
     <item>
       <title>Emotion</title>
       <link>https://seoyeongpark.github.io/tags/emotion/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
       <guid>https://seoyeongpark.github.io/tags/emotion/</guid>
       <description></description>
     </item>
     <item>
       <title>Empathic AI</title>
       <link>https://seoyeongpark.github.io/tags/empathic-ai/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
       <guid>https://seoyeongpark.github.io/tags/empathic-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Mental States</title>
       <link>https://seoyeongpark.github.io/tags/mental-states/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
       <guid>https://seoyeongpark.github.io/tags/mental-states/</guid>
       <description></description>
     </item>
     <item>
       <title>NLP</title>
       <link>https://seoyeongpark.github.io/tags/nlp/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
       <guid>https://seoyeongpark.github.io/tags/nlp/</guid>
       <description></description>
     </item>
     <item>
       <title>Statistical Modeling</title>
       <link>https://seoyeongpark.github.io/tags/statistical-modeling/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
       <guid>https://seoyeongpark.github.io/tags/statistical-modeling/</guid>
       <description></description>
     </item>

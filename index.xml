@@ -6,7 +6,7 @@
     <description>Recent content in Home on Seoyeong Park</description>
     <generator>Hugo</generator>
     <language>utf-8</language>
-    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://seoyeongpark.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Course scheduling with CSP</title>
@@ -32,7 +32,7 @@
     <item>
       <title>Detecting Correlation Between Emotional Transition and Vocabulary Usage in Individual Social Media Posts Using NLP</title>
       <link>https://seoyeongpark.github.io/research/emotion/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate>
       <guid>https://seoyeongpark.github.io/research/emotion/</guid>
       <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;summary-and-goal&#34;&gt;Summary and goal&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Emotion modeling of event-based mental states changing using topic modeling&lt;/li&gt;&#xA;&lt;li&gt;Understanding word attribution and vocabulary usages for emotional shifts&lt;/li&gt;&#xA;&lt;li&gt;Discovering discernible changes in writing style depending on emotional shifts in online communication and social media posts&lt;/li&gt;&#xA;&lt;li&gt;Envisioning a conditional random field (CRF) that captures transitions in emotional states to create an empathetic language suggestion model that generates comforting and supportive responses to users&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;analysis-of-the-correlation-between-emotional-fluctuation-and-usage-of-words&#34;&gt;Analysis of the Correlation Between Emotional Fluctuation and Usage of Words&lt;/h4&gt;&#xA;&lt;p&gt;In today&amp;rsquo;s digital age, online communities like Reddit play a significant role in providing emotional support and a sense of belonging to individuals dealing with various life situations and struggles. Users often express their feelings, emotions, and experiences on different subreddit communities and are provided with empathetic responses. Harnessing the valuable data generated within these communities is crucial in gaining insight into human emotion.&lt;/p&gt;</description>
     </item>
@@ -41,6 +41,13 @@
       <link>https://seoyeongpark.github.io/research/nagoya/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/research/nagoya/</guid>
+      <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;Understanding customers and segmenting in an appropriate way play a vital role in business operations and effective marketing strategies. It helps target specific customer groups for increased engagement and profit. However, traditional approaches often struggle to predict future purchase patterns, especially when user data is sparse and fragmented across multiple sources. This research proposes a novel clustering-based multitask classification method to address these limitations. We integrated the Recency, Frequency Monetary (RFM) model to cluster customers based on their purchase patterns from various purchase categories (tickets, merchandise, fan club membership) to create a more comprehensive understanding of loyalty for a professional basketball team in Japan. The proposed model predicts a customer&amp;rsquo;s segment across all purchase categories, implying the potential relationships between each category. Initial results demonstrate that the model effectively analyzes purchase behaviors, offering actionable insights to enhance marketing strategies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Clustering-Based Multitask Classification for Predictive Consumer Behavior Modeling</title>
+      <link>https://seoyeongpark.github.io/publications/ml-nagoya/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://seoyeongpark.github.io/publications/ml-nagoya/</guid>
       <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;Understanding customers and segmenting in an appropriate way play a vital role in business operations and effective marketing strategies. It helps target specific customer groups for increased engagement and profit. However, traditional approaches often struggle to predict future purchase patterns, especially when user data is sparse and fragmented across multiple sources. This research proposes a novel clustering-based multitask classification method to address these limitations. We integrated the Recency, Frequency Monetary (RFM) model to cluster customers based on their purchase patterns from various purchase categories (tickets, merchandise, fan club membership) to create a more comprehensive understanding of loyalty for a professional basketball team in Japan. The proposed model predicts a customer&amp;rsquo;s segment across all purchase categories, implying the potential relationships between each category. Initial results demonstrate that the model effectively analyzes purchase behaviors, offering actionable insights to enhance marketing strategies.&lt;/p&gt;</description>
     </item>
     <item>
