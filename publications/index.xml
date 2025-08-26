@@ -6,21 +6,28 @@
     <description>Recent content in Publications on Seoyeong Park</description>
     <generator>Hugo</generator>
     <language>utf-8</language>
-    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://seoyeongpark.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Identifying Barriers Faced by Older Adults in Mobile App Usage</title>
+      <link>https://seoyeongpark.github.io/publications/elderly-accessibility/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://seoyeongpark.github.io/publications/elderly-accessibility/</guid>
+      <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;h4 id=&#34;resources&#34;&gt;Resources&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://panosd.eu/aasg2024/papers/AASG2024_paper_14.pdf&#34;&gt;Paper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>MEAL: Model of Empathy Augmented Logistics for Food Security</title>
+      <link>https://seoyeongpark.github.io/publications/food-sharing/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://seoyeongpark.github.io/publications/food-sharing/</guid>
+      <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;Millions globally lack access to nutritious food, experiencing food insecurity. Despite growing recognition and efforts, equitable distribution remains hard due to limited resources and the diverse preferences of users. The problem of equitable food distribution requires a robust, socially intelligent infrastructure. We propose Meal (Model of Empathy Augmented Logistics for Food Security), a novel approach based on a multistakeholder recommendation system for food allocation, balancing user needs and society&amp;rsquo;s sustainability. Unlike existing systems that focus on either user satisfaction or logistical operations, our model considers both users and food banks, dynamically adapting to changing preferences and resource availability. Our simulated experiments demonstrate improvement in metrics such as over single-stakeholder models, suggesting significant potential for improved food access and resource utilization in addressing food insecurity.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Clustering-Based Multitask Classification for Predictive Consumer Behavior Modeling</title>
       <link>https://seoyeongpark.github.io/publications/ml-nagoya/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/publications/ml-nagoya/</guid>
       <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;Understanding customers and segmenting in an appropriate way play a vital role in business operations and effective marketing strategies. It helps target specific customer groups for increased engagement and profit. However, traditional approaches often struggle to predict future purchase patterns, especially when user data is sparse and fragmented across multiple sources. This research proposes a novel clustering-based multitask classification method to address these limitations. We integrated the Recency, Frequency Monetary (RFM) model to cluster customers based on their purchase patterns from various purchase categories (tickets, merchandise, fan club membership) to create a more comprehensive understanding of loyalty for a professional basketball team in Japan. The proposed model predicts a customer&amp;rsquo;s segment across all purchase categories, implying the potential relationships between each category. Initial results demonstrate that the model effectively analyzes purchase behaviors, offering actionable insights to enhance marketing strategies.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MEAL: Model of Empathy Augmented Logistics for Food Security</title>
-      <link>https://seoyeongpark.github.io/publications/food-sharing/</link>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://seoyeongpark.github.io/publications/food-sharing/</guid>
-      <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;Millions globally lack access to nutritious food, experiencing food insecurity. Despite growing recognition and efforts, equitable distribution remains hard due to limited resources and the diverse preferences of users. The problem of equitable food distribution requires a robust, socially intelligent infrastructure. We propose Meal (Model of Empathy Augmented Logistics for Food Security), a novel approach based on a multistakeholder recommendation system for food allocation, balancing user needs and society&amp;rsquo;s sustainability. Unlike existing systems that focus on either user satisfaction or logistical operations, our model considers both users and food banks, dynamically adapting to changing preferences and resource availability. Our simulated experiments demonstrate improvement in metrics such as over single-stakeholder models, suggesting significant potential for improved food access and resource utilization in addressing food insecurity.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
