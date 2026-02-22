@@ -1,98 +1,156 @@
-/* font 통일, 색깔 바꿔, highlight 확실히, font size 줄이기 */
+/* Professional Portfolio Styling */
+/* Modern font stack with Google Fonts and consistent color palette */
 
-@font-face {
-    font-family: 'Gyeonggi_Batang_Regular';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff') format('woff');
-    font-weight: normal;  /*400, 700*/
-    font-style: normal;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:wght@400;500;600;700&display=swap');
+
+/* Font Definitions */
+:root {
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  --font-serif: 'Lora', serif;
+  
+  /* Color Palette - sophisticated and balanced */
+  --color-primary-dark: #2C3E50;      /* Dark slate for backgrounds */
+  --color-primary-light: #34495E;     /* Slightly lighter for text */
+  --color-accent: #5B7C99;            /* Muted blue accent */
+  --color-accent-hover: #3498DB;      /* Brighter blue for hover */
+  --color-text: #2C3E50;              /* Main text color */
+  --color-text-light: #5D6D7B;        /* Secondary text */
+  --color-border: #E0E6ED;            /* Subtle borders */
 }
 
-@font-face {
-    font-family: 'Gyeonggi_Title_Medium';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Title_Medium.woff') format('woff');
-    font-weight: normal; /*300, 500, 700, 800*/
-    font-style: normal;
+/* Global Font */
+body {
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  line-height: 1.6;
+  font-weight: 400;
 }
 
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  color: var(--color-primary-dark);
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+/* Name (mb-0 class) */
 .mb-0 {
-	/* Name */
-    font-family: 'Gyeonggi_Title_Medium';
-	font-weight: 800;
+  font-family: var(--font-serif);
+  font-weight: 700;
+  color: var(--color-primary-dark);
 }
 
+/* Navigation */
 .navbar-nav {
-	/* font-family: "Pretendard-Regular", */
-    font-family: 'Gyeonggi_Batang_Regular';
+  font-family: var(--font-sans);
+  font-weight: 500;
 }
 
-/* h1 {
-	font-family: "Playwrite DE SAS", cursive; 
-	font-family: "Pretendard-Regular";
-	font-family: "S-CoreDream-3Light";
-	font-optical-sizing: 16pt;
-	font-weight: 800; 
-	font-style: normal;
-} */
-
+/* Text Sections */
 .mb-3, .pb-2, .pb-3 {
-	/* font-family: "S-CoreDream-3Light"; */
-    font-family: 'Gyeonggi_Batang_Regular';
-    /* font-family: 'Gyeonggi_Title_Medium'; */
-	font-weight: 200;
+  font-family: var(--font-sans);
 }
 
 p, .subheading {
-    font-family: 'Gyeonggi_Batang_Regular';
-	font-style: normal;
-} 
+  font-family: var(--font-sans);
+  color: var(--color-text);
+}
 
+.subheading {
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--color-accent);
+}
+
+/* Emphasis */
 strong {
-    font-family: 'Gyeonggi_Batang_Regular';
-	font-style: normal;
-	font-weight: 700;
-	color:brown;
+  font-weight: 600;
+  color: var(--color-primary-dark);
 }
 
-h1, h2, h3, h4, h5 {
-    font-family: 'Gyeonggi_Title_Medium';
+/* Resume Section Container */
+.resume-section {
+  font-family: var(--font-sans);
 }
 
+/* Color Scheme */
+.bg-primary {
+  background-color: var(--color-primary-dark) !important;
+}
 
-body{
- 	
-	/* font-family: Calibri Condensed; */
-	/* font-family: "Nanum Gothic", sans-serif; */
-    font-family: 'Gyeonggi_Batang_Regular';
- } 
+.text-primary {
+  color: var(--color-accent) !important;
+}
 
- .resume-section{
-    font-family: 'Gyeonggi_Batang_Regular';
-	/* font-family: Calibri Condensed; */
-	/* font-family: "Nanum Gothic", sans-serif; */
- }
+a {
+  color: var(--color-accent);
+  font-family: var(--font-sans);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
 
+a:hover, 
+a:focus, 
+a:active {
+  color: var(--color-accent-hover) !important;
+}
 
+.list-social-icons a:hover {
+  color: var(--color-accent-hover) !important;
+}
 
- .bg-primary {
-	background-color: #1E1F26 !important;
- }
- 
- .text-primary {
-	color: #283655 !important;
- }
- 
- a {
-	color: #4D648D;
-    font-family: 'Gyeonggi_Batang_Regular';
- }
- 
- a:hover, a:focus, a:active {
-	color: #4D648D;
- }
- 
- .list-social-icons a:hover {
-	color: #4D648D;
- }
- .list-icons .list-inline-item i:hover {
-	color: #4D648D;
- }
+.list-icons .list-inline-item i:hover {
+  color: var(--color-accent-hover) !important;
+}
+
+/* Compact Spacing */
+.resume-section {
+  padding-top: 2rem !important;
+  padding-bottom: 2rem !important;
+}
+
+.resume-item {
+  margin-bottom: 2rem !important;
+}
+
+.mb-5 {
+  margin-bottom: 1.5rem !important;
+}
+
+.mb-3 {
+  margin-bottom: 1rem !important;
+}
+
+.pb-3 {
+  padding-bottom: 1rem !important;
+}
+
+.pb-2 {
+  padding-bottom: 0.75rem !important;
+}
+
+.pt-3 {
+  padding-top: 0.75rem !important;
+}
+
+/* Lead text styling */
+p.lead {
+  font-size: 0.98rem;
+  line-height: 1.6;
+  color: var(--color-text-light);
+}
