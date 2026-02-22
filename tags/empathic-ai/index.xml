@@ -6,21 +6,14 @@
     <description>Recent content in Empathic AI on Seoyeong Park</description>
     <generator>Hugo</generator>
     <language>utf-8</language>
-    <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://seoyeongpark.github.io/tags/empathic-ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Detecting Correlation Between Emotional Transition and Vocabulary Usage in Individual Social Media Posts Using NLP</title>
-      <link>https://seoyeongpark.github.io/research/emotion/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>https://seoyeongpark.github.io/research/emotion/</guid>
-      <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;summary-and-goal&#34;&gt;Summary and goal&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Emotion modeling of event-based mental states changing using topic modeling&lt;/li&gt;&#xA;&lt;li&gt;Understanding word attribution and vocabulary usages for emotional shifts&lt;/li&gt;&#xA;&lt;li&gt;Discovering discernible changes in writing style depending on emotional shifts in online communication and social media posts&lt;/li&gt;&#xA;&lt;li&gt;Envisioning a conditional random field (CRF) that captures transitions in emotional states to create an empathetic language suggestion model that generates comforting and supportive responses to users&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;analysis-of-the-correlation-between-emotional-fluctuation-and-usage-of-words&#34;&gt;Analysis of the Correlation Between Emotional Fluctuation and Usage of Words&lt;/h4&gt;&#xA;&lt;p&gt;In today&amp;rsquo;s digital age, online communities like Reddit play a significant role in providing emotional support and a sense of belonging to individuals dealing with various life situations and struggles. Users often express their feelings, emotions, and experiences on different subreddit communities and are provided with empathetic responses. Harnessing the valuable data generated within these communities is crucial in gaining insight into human emotion.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Identifying Barriers Faced by Older Adults in Mobile App Usage</title>
+      <title>Challenges Faced by Older Adults in Using Mobile Apps and a Way Forward</title>
       <link>https://seoyeongpark.github.io/publications/elderly-accessibility/</link>
-      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://seoyeongpark.github.io/publications/elderly-accessibility/</guid>
-      <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;h4 id=&#34;resources&#34;&gt;Resources&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://panosd.eu/aasg2024/papers/AASG2024_paper_14.pdf&#34;&gt;Paper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;&#xA;&lt;p&gt;The low adoption of mobile apps by older adults exacerbates the digital divide. We examine the psychological and technological factors that influence app usage by older adults, drawing insights from app reviews to highlight the unmet needs of older adults and their expectations.&lt;/p&gt;&#xA;&lt;h4 id=&#34;resources&#34;&gt;Resources&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/11370806&#34;&gt;Paper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
 </rss>
